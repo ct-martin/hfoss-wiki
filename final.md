@@ -14,9 +14,6 @@ this [curriculum chart](https://wiki.sugarlabs.org/go/Math4Team/Resources/Curric
 on the Sugarlabs Wiki. You are not restricted to using this, but it is an
 option.
 
-Speaking of, have at least one team member [request an account](https://wiki.sugarlabs.org/index.php?title=Special:UserLogin)
-for that wiki. This is a manual process so please begin right away.
-
 You may find the [NY State math standards](http://www.p12.nysed.gov/ciai/mst/math/standards/revisedg4.html) 
 helpful.
 
@@ -37,6 +34,10 @@ Seek a diverse set of skills in your team.
 ### Propose a project.
 Be sure to note what curricular components are included.
 Assign roles to team members.
+
+### Request a SugarLabs Wiki account
+Have at least one team member [request an account](https://wiki.sugarlabs.org/index.php?title=Special:UserLogin)
+for the wiki. **_This is a manual process so please begin right away._**
 
 ### Demonstrate some proof-of-concept
 
